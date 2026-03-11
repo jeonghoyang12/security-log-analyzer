@@ -1,1 +1,2 @@
 # 🔒 Security Log Auto-Analyzer
+An automated security pipeline that parses firewall logs, detects suspicious IPs using rule-based analysis, verifies via threat intelligence APIs, and sends real-time alerts.
